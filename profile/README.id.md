@@ -54,7 +54,7 @@ Kami percaya bahwa setiap kontribusi—sekecil apa pun itu—memiliki nilai yang
 Mari jalin silaturahmi dan berkolaborasi di berbagai platform digital kami:
 
 *   🌐 **Website:** [jariyahcode.org](https://jariyahcode.org) *(Segera Hadir)*
-*   💬 **Discord Server:** [Link Discord Anda di sini]
+*   💬 **Discord Server:** [JariyahCode Server](https://discord.gg/NChZzYK5Qm)
 *   💼 **LinkedIn:** [Link LinkedIn JariyahCode]
 *   📸 **Instagram:** [@jariyahcode](https://instagram.com/jariyahcode)
 *   🐦 **X (Twitter):** [@jariyahcode](https://x.com/jariyahcode)
