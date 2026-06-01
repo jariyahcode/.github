@@ -1,8 +1,8 @@
 # JariyahCode
 
-> **"Coding for the Ummah, Accumulating Jariyah for the Hereafter."**
+**Read in:** [English](README.md) | [Bahasa Indonesia](README.id.md)
 
-[Baca dalam Bahasa Indonesia](README.id.md) <!-- Tombol link ke versi Indo nanti -->
+> **"Coding for the Ummah, Accumulating Jariyah for the Hereafter."**
 
 JariyahCode is an open-source, non-profit organization and community for developers, designers, product managers, and tech talents to contribute voluntarily. Our core mission is to provide a structured platform for Muslim tech talents who want to dedicate their skills to the betterment of the Muslim community (Ummah). 
 
