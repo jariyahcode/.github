@@ -1,8 +1,8 @@
-# JariyahCode 🚀
+# JariyahCode
+
+**Baca dalam:** [English](README.md) | [Bahasa Indonesia](README.id.md)
 
 > **"Coding untuk Umat, Menabung Jariyah untuk Akhirat."**
-
-[Read in English](README.md) <!-- Tombol link untuk kembali ke versi Inggris -->
 
 JariyahCode adalah sebuah wadah dan komunitas open-source non-profit bagi para *developer*, *designer*, *product manager*, dan talenta teknologi di Indonesia untuk berkontribusi secara sukarela. Keresahan kami sederhana: banyak talenta digital Muslim yang ingin bersedekah keahlian demi kemaslahatan umat Islam, namun tidak memiliki wadah yang terorganisir dengan baik. 
 
