@@ -54,7 +54,7 @@ We believe that every contribution—no matter how small—holds immense value. 
 Let's build together and stay connected through our official platforms:
 
 *   🌐 **Website:** [jariyahcode.org](https://jariyahcode.org) *(Coming Soon)*
-*   💬 **Discord Server:** [Your Discord Link Here]
+*   💬 **Discord Server:** [JariyahCode Server](https://discord.gg/NChZzYK5Qm)
 *   💼 **LinkedIn:** [Your JariyahCode LinkedIn Page Link]
 *   📸 **Instagram:** [@jariyahcode](https://instagram.com/jariyahcode)
 *   🐦 **X (Twitter):** [@jariyahcode](https://x.com/jariyahcode)
